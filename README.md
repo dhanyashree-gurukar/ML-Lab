@@ -6,7 +6,7 @@ This repository contains solutions to all the **Machine Learning Lab Programs**.
 
 ## 📋 List of Programs
 
-### 1. Simple python program using conditional statements, looping, performing operations such as Insert, Update, Delete, Display, Sorting, and Searching on data types like List, Tuple, Set, Dictionary.
+1. Simple python program using conditional statements, looping, performing operations such as Insert, Update, Delete, Display, Sorting, and Searching on data types like List, Tuple, Set, Dictionary.
 
 ---
 
