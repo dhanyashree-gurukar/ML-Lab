@@ -1,12 +1,8 @@
 # Machine Learning Laboratory - 22CS68L 
 
----
-
 ## List of Programs
 
 1. Simple python program using conditional statements, looping, performing operations such as Insert, Update, Delete, Display, Sorting, and Searching on data types like List, Tuple, Set, Dictionary.
-
---
 
 2. Visualize the n-dimensional data using Scatter plots, box plot, heat maps, contour plots, 3D surface plots using python packages.
 
