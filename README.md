@@ -6,7 +6,7 @@ This repository contains solutions to all the **Machine Learning Lab Programs**.
 
 ## 📋 List of Programs
 
-<pre>1. Simple python program using conditional statements, looping, performing operations such as Insert, Update, Delete, Display, Sorting, and Searching on data types like List, Tuple, Set, Dictionary.
+1. Simple python program using conditional statements, looping, performing operations such as Insert, Update, Delete, Display, Sorting, and Searching on data types like List, Tuple, Set, Dictionary.
 
 ---
 
@@ -59,4 +59,3 @@ This repository contains solutions to all the **Machine Learning Lab Programs**.
 12. Write a program to develop simple single layer perceptron to implement AND, OR Boolean functions.
 
 ---
-</pre>
